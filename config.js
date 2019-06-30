@@ -18,7 +18,8 @@ const config = {
 		"forcedNavOrder": [
 			"/introduction",
     			"/codeblock",
-			"/java"
+			"/java",
+			"seabtest"
 		],
 		"links": [
 			{ "text": "", "link": ""},
