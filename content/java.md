@@ -24,3 +24,13 @@ The following is a code block with diff. Lines with `+` highlighted in green sha
 ```javascript react-live=true
 <button className={'btn btn-default'}>Change my text</button>
 ```
+
+## Example of another header
+
+# bigger one 
+
+### smaller one
+
+## how to do this in java
+
+## how to do that in java
