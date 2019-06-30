@@ -19,7 +19,7 @@ const config = {
 			"/introduction",
     			"/codeblock",
 			"/java",
-			"seabtest"
+			"/seabtest"
 		],
 		"links": [
 			{ "text": "", "link": ""},
