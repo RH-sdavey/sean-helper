@@ -6,8 +6,8 @@ const config = {
 	},
 	"header": {
 		"logo": "https://graphql-engine-cdn.hasura.io/img/hasura_icon_white.svg",
-		"title": "Gatsby Gitbook Boilerplate",
-		"githubUrl": "https://github.com/hasura/gatsby-gitbook-boilerplate",
+		"title": "Sean-Helper to help Sean",
+		"githubUrl": "https://github.com/RH-sdavey/sean-helper",
 		"helpUrl": "",
 		"tweetText": "",
 		"links": [
@@ -17,7 +17,8 @@ const config = {
 	"sidebar": {
 		"forcedNavOrder": [
 			"/introduction",
-    		"/codeblock"
+    			"/codeblock"
+			"/java"
 		],
 		"links": [
 			{ "text": "", "link": ""},
