@@ -1,6 +1,6 @@
 ---
 title: "Java"
-metaTitle: ""Intro to Java | Java Hints""
+metaTitle: "Intro to Java | Java Hints"
 metaDescription: "Java"
 ---
 
