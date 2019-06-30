@@ -17,7 +17,8 @@ const config = {
 	"sidebar": {
 		"forcedNavOrder": [
 			"/introduction",
-    			"/codeblock"
+    			"/codeblock",
+			"/java"
 		],
 		"links": [
 			{ "text": "", "link": ""},
