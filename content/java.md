@@ -27,7 +27,6 @@ The following is a code block with diff. Lines with `+` highlighted in green sha
 
 ## Example of another header
 
-# bigger one 
 
 ### smaller one
 
