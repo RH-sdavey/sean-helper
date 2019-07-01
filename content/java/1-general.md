@@ -1,5 +1,5 @@
 ---
-title: "Java"
+title: "Java1"
 metaTitle: "General Java | Java Hints"
 metaDescription: "Java"
 ---
