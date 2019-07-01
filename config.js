@@ -17,9 +17,14 @@ const config = {
 	"sidebar": {
 		"forcedNavOrder": [
 			"/introduction",
-    			"/codeblock",
 			"/java",
-			"/seabtest"
+			"/bash",
+			"/vim",
+			"/ssh",
+			"/networking",
+			"/markdown",
+			"/ansible",
+			"/docker"
 		],
 		"links": [
 			{ "text": "", "link": ""},
