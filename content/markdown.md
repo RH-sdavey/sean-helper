@@ -92,7 +92,10 @@ produces...
 >> 1. or
 >> 1. numbered
 >> 1. lists
-# Lists
+# Lists ( and accidental diffing example :) )
+
+diffing here happens because its inside a code block:
+
 ```
 - First ( minus )
 * second ( star )
@@ -142,10 +145,11 @@ produces
 # Code Blocks
 Code blocks are normally indented four spaces or one tab. When they’re in a list, indent them eight spaces or two tabs.
 
+````
 1.  Open the file.
 2.  Find the following code block on line 21:
 
-    ```html
+```html
   <html>
       <head>
         <title>Test</title>
@@ -154,15 +158,39 @@ Code blocks are normally indented four spaces or one tab. When they’re in a li
 ```
 3.  Update the title to match the name of your website.
 
+json example :
 ```json
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-```
+    {
+      "firstName": "John",
+      "lastName": "Smith",
+      "age": 25
+    }
 
+````
+
+produces...
+1.  Open the file.
+2.  Find the following code block on line 21:
+
+```html
+  <html>
+      <head>
+        <title>Test</title>
+      </head>
+  </html>
+```
+3.  Update the title to match the name of your website.
+
+json example :
+```json
+    {
+      "firstName": "John",
+      "lastName": "Smith",
+      "age": 25
+    }
+```
 # Inline codeblocks
+
 ```
 At the command prompt, type `ssh thisguy@thisServer echo "theCakeIsALie!"`.
 ```
@@ -186,8 +214,7 @@ produces...
 
 3.  Close the file.
 
-# Horizontal Rules (TODO)
-
+# Horizontal Rules
 To create a horizontal rule, use three or more asterisks, dashes or underscores on a line by themselves.
 ```
 ************
@@ -278,7 +305,7 @@ produces...
 
 You can display a pipe (|) character in a table by using its HTML character code (&#124;).
 
-# footnote (TODO)
+# footnote
 
 Here's a simple footnote,[^1] and here's a longer one.[^bignote]
 
@@ -319,7 +346,7 @@ Second Term
 produces...
 ~~The world is flat.~~ We now know that the world is round.
 
-# Task lists
+# Task lists (accidental diffing inside code block)
 ```
 - [x] Write the press release
 - [ ] Update the website
