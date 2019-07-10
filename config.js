@@ -17,6 +17,7 @@ const config = {
 	"sidebar": {
 		"forcedNavOrder": [
 			"/introduction",
+			"/sysadmin",
 			"/java",
 			"/bash",
 			"/vim",
