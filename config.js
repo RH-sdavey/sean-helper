@@ -30,7 +30,7 @@ const config = {
 		"description": "Sean will help you",
 		"ogImage": null,
 		"docsLocation": "https://github.com/RH-sdavey/sean-helper/blob/master/content/",
-		"favicon": "favicon.ico"
+		"favicon": "https://image.flaticon.com/icons/svg/327/327013.svg"
 	},
 };
 
