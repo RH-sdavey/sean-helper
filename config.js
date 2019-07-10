@@ -18,14 +18,8 @@ const config = {
 		"forcedNavOrder": [
 			"/introduction",
 			"/sysadmin",
-			"/java",
-			"/bash",
-			"/vim",
-			"/ssh",
-			"/networking",
-			"/markdown",
-			"/ansible",
-			"/docker"
+			"/developer",
+			"/devops"
 		],
 		"links": [
 			{ "text": "", "link": ""},
@@ -36,7 +30,7 @@ const config = {
 		"description": "Sean will help you",
 		"ogImage": null,
 		"docsLocation": "https://github.com/RH-sdavey/sean-helper/blob/master/content/",
-		"favicon": "content/favicon.ico"
+		"favicon": "favicon.ico"
 	},
 };
 
