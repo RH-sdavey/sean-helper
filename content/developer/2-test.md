@@ -1,7 +1,7 @@
 ---
-title: "Java2"
-metaTitle: "test to Java | Java Hints"
-metaDescription: "Java"
+title: "Second"
+metaTitle: "DeveloperMeta"
+metaDescription: "DeveloperMetaDesc"
 ---
 
 The following is a code block with JavaScript language syntax highlighting.
@@ -24,4 +24,3 @@ The following is a code block with diff. Lines with `+` highlighted in green sha
 ```javascript react-live=true
 <button className={'btn btn-default'}>Change my text</button>
 ```
-

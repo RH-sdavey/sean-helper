@@ -1,5 +1,5 @@
 ---
 title: "Developer"
 metaTitle: "DeveloperMeta"
-metaDescription: "DeveloeprMetaDesc"
+metaDescription: "DeveloperMetaDesc"
 ---
