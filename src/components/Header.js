@@ -72,7 +72,7 @@ const Header = ({location}) => (
                     </li>) : null}
 
                 </ul>
-              }
+
               <ul className={'nav navbar-nav navBarUL navbar-right'}>
 
                 {headerLinks.map((link, key) => {
