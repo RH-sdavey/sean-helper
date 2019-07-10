@@ -1,3 +1,3 @@
 ---
-title: "Bash"
+title: "Bash Basics"
 ---
