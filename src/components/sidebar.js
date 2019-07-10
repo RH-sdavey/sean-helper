@@ -21,22 +21,22 @@ const Sidebar = styled('aside')`
   position: sticky;
   top: 0;
   padding-right: 0;
-  background-color: #92a8d1;
+  background-color: red;
   /* Safari 4-5, Chrome 1-9 */
-  background: linear-gradient(#92a8d1, #f7786b);
-  background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#92a8d1), to(#f7786b));
+  background: linear-gradient(red, black);
+  background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(red), to(black));
   /* Safari 5.1, Chrome 10+ */
-  background: -webkit-linear-gradient(top, #92a8d1, #f7786b);
+  background: -webkit-linear-gradient(top, red, black);
   /* Firefox 3.6+ */
-  background: -moz-linear-gradient(top, #92a8d1, #f7786b);
+  background: -moz-linear-gradient(top, red, black);
   /* IE 10 */
-  background: -ms-linear-gradient(top, #92a8d1, #f7786b);
+  background: -ms-linear-gradient(top, red, black);
   /* Opera 11.10+ */
-  background: -o-linear-gradient(top, #92a8d1, #f7786b);
+  background: -o-linear-gradient(top, red, black);
   @media only screen and (max-width: 767px) {
     padding-left: 0px;
-    background-color: #92a8d1;
-    background: #92a8d1;
+    background-color: red;
+    background: red;
   }
   @media (min-width: 767px) and (max-width:1023px)
   {
