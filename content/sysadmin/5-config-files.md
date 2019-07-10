@@ -1,3 +1,3 @@
 ---
-title: "Bash Advanced"
+title: "Config files"
 ---
