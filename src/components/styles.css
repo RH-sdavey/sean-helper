@@ -75,7 +75,7 @@ body {
 
 /* Header section starts here */
 .navBarDefault {
-  background-color: #372476;
+  background-color: #92a8d1;
   border-radius: 0;
   border-top: 0;
   margin-bottom: 0;
@@ -132,6 +132,7 @@ body {
 .navBarUL li a:hover {
   opacity: .7;
 }
+
 pre {
   border: 0 !important;
   background-color: rgb(245, 247, 249); /* !important; */
@@ -175,7 +176,7 @@ pre {
 }
 
 .sideBarUL {
-  margin-top: 32px;
+  margin-top: 62px;
 }
 
 .sideBarUL li {
@@ -194,7 +195,7 @@ pre {
 }
 
 .rightSideTitle {
-  font-size: 10px;
+  font-size: 14px;
   line-height: 1;
   font-weight: 700;
   text-transform: uppercase;
