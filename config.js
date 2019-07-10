@@ -5,7 +5,7 @@ const config = {
 		"gaTrackingId": "UA-143584800-1"
 	},
 	"header": {
-		"logo": "https://graphql-engine-cdn.hasura.io/img/hasura_icon_white.svg",
+		"logo": "https://image.flaticon.com/icons/svg/327/327013.svg",
 		"title": "Sean will help you change your future...",
 		"githubUrl": "https://github.com/RH-sdavey/sean-helper",
 		"helpUrl": "",
